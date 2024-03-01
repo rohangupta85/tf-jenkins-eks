@@ -1,0 +1,4 @@
+.terraform/*
+.terraform.lock.hcl
+
+#Dont need to commit these files to the git repo

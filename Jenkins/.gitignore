@@ -1,0 +1,5 @@
+#These files dont need to be pushed to your git repo
+
+.terraform/*
+.terraform.lock.hcl 
+
